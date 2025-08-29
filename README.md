@@ -30,13 +30,8 @@ It enables users to authenticate, send, and receive notifications in real-time w
 - 🛢️ MySQL / PostgreSQL  
 - 🔐 Laravel Sanctum / Passport (API auth)  
 - ⚡ Redis + Queues for async jobs  
-- 🧪 PHPUnit + Pest for testing  
-
-**DevOps**
-- 🐳 Docker (Optional)  
-- 🔧 Nginx / Apache for production  
-- 🌐 Postman / Swagger for API docs  
-
+- 🧪 PHPUnit + Pest for testing
+  
 ---
 
 ## 📂 Project Structure
